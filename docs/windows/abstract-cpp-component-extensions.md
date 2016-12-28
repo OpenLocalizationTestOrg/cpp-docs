@@ -40,7 +40,10 @@ The `abstract` keyword declares either:
   
 -   A type can be used as a base type, but the type itself cannot be instantiated.  
   
--   A type member function can be defined only in a derived type.  
+-   A type member function can be defined only in a derived type. 
+
+## Add a new line for perf testing
+haha *heihei*
   
 ## All Platforms  
  **Syntax**  
