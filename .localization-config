@@ -30,5 +30,6 @@
   "IncludeDependencies": true,
   "AutoPush": true,
   "XliffVersion": "1.2",
-  "UseJavascriptMarkdownTransformer": true
+  "UseJavascriptMarkdownTransformer": true,
+  "TranslationSysFileDestination": "HandbackRepo"
 }
